@@ -1,8 +1,8 @@
 import re
 
 def find_replace():
-    input_file = r"C:/Users/Aditya/OneDrive/Documents/Advanced Programming Concepts/Find & Replace in File/input.txt"
-    output_file = r"C:/Users/Aditya/OneDrive/Documents/Advanced Programming Concepts/Find & Replace in File/output.txt"
+    input_file = r"C:/Users/Akshay/OneDrive/Documents/Advanced Programming Concepts/Find & Replace in File/input.txt"
+    output_file = r"C:/Users/Akshay/OneDrive/Documents/Advanced Programming Concepts/Find & Replace in File/output.txt"
     target = input("Enter word/phrase to replace: ")
     replacement = input("Enter replacement word/phrase: ")
     case_choice = input("Case-sensitive? (yes/no): ").strip().lower()
